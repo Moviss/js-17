@@ -1,4 +1,4 @@
-# JS - Zajęcia #
+# JS - Zajęcia 17 - Minutniki i czas
 
 ### Jak uruchomić?
 
